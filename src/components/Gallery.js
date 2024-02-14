@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { getStorage, ref, listAll, getDownloadURL } from "firebase/storage";
 import { app } from "../firebase";
 /* import LazyLoad from 'react-lazyload'; */
-import Footer from "./Footer";
 import img from "../img/zedgar.gif";
 import "./css/Gallery.css";
 

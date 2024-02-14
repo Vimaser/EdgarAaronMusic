@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { getFirestore, collection, getDocs } from "firebase/firestore";
 import { app } from "../firebase";
-import Footer from "./Footer";
 import loadingGif from "../img/loading2.gif";
 import img from "../img/zedgar.gif";
 import "./css/Events.css";
@@ -46,7 +45,6 @@ const Events = () => {
       <div className="events-background">
         <img src={loadingGif} alt="Loading..." />
         <br />
-        <Footer />
       </div>
     );
   }

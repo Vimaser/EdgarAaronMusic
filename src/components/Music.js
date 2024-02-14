@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { db } from "../firebase";
 import { collection, getDocs, query, orderBy } from "firebase/firestore";
-import Footer from "./Footer"
 import img1 from "../img/zedgar.gif";
 import "./css/Music.css";
 
