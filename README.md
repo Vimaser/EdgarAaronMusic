@@ -8,3 +8,5 @@ hex color codes -
 #a43d4c - A rich, dark red, representing the deeper tones in the heart.
 
 Okay, mostly done. Made some ease of use changes to the admin portal based on previous projects.
+
+Reminder: Change UUID rules and attach UUID on backEnd!

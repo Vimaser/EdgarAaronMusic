@@ -81,7 +81,7 @@ const Events = () => {
       </section>
       <br />
       <section className="image-section">
-        <img src={img} alt="Dan Broe" />
+        <img src={img} alt="The Messanger" />
       </section>
       <br />
     </div>
