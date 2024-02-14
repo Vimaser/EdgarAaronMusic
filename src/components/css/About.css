@@ -1,0 +1,29 @@
+.about-container {
+  background-color: #709c97;
+  padding: 40px;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 20px;
+  }
+  
+  .about-container h1 {
+    background-color: #709c97;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #a43d4c;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .about-container p {
+    background-color: #709c97;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #1e161b;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
