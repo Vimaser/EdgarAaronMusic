@@ -83,7 +83,7 @@ iframe {
 
 .home-background-image {
     background-image: linear-gradient(to right, black , gray); 
-    background-image: url('./bg.webp');
+    background-image: url('./edgarart-bg.png');
     background-size: cover; /* Adjusted to cover */
     background-position: center;
     background-repeat: no-repeat;
