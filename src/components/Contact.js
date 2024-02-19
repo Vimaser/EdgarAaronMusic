@@ -32,11 +32,11 @@ const Contact = () => {
       <section className="contact-info">
         <h1>Contact Info</h1>
         <p>If you have any questions or need further information, feel free to contact Edgar directly. He is always open to discussing music, collaborations, and other opportunities.</p>
-        <h2>Email: <a href="mailto:danbroemusic@bellsouth.net">test@test.net</a></h2>
+        <h2>Email: <a href="mailto:pearson.edgar@gmail.com">pearson.edgar@gmail.com</a></h2>
       </section>
   
       <section className="contact-form">
-        <h1>Contact Dan Directly</h1>
+        <h1>Contact Edgar Directly</h1>
         <form onSubmit={handleSubmit}>
           <div className="form-group">
             <label htmlFor="name">Name:</label>

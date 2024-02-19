@@ -20,10 +20,10 @@ function About() {
           welfare.
         </p>
         <p>
-          Born on December 23, 1975, Edgar's personality intriguingly blends
-          warmth and resilience. In his own words, "I am Edgar, I'm an odd
-          combination of really sweet and don't mess with me." This unique mix
-          of kindness and strength characterizes not only his personal
+          Born on December 23, 1975, Edgar's personality and music intriguingly
+          blends warmth and resilience. In his own words, "I am Edgar, I'm an
+          odd combination of really sweet and don't mess with me." This unique
+          mix of kindness and strength characterizes not only his personal
           interactions but also his professional ethos. His academic background
           in social work underpins a career devoted to advocacy and empowerment,
           where he channels his empathetic nature into actionable, positive

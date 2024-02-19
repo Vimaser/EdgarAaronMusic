@@ -1,4 +1,7 @@
 # Edgar Aaron Music
+
+Personal Website for Client.
+
 hex color codes -
 
 #709c97 - A muted teal, resembling the foliage.
@@ -6,7 +9,3 @@ hex color codes -
 #305d5d - A dark cyan-green, also likely from the foliage.
 #e2dcdc - A light pinkish-grey, possibly from the highlights.
 #a43d4c - A rich, dark red, representing the deeper tones in the heart.
-
-Okay, mostly done. Made some ease of use changes to the admin portal based on previous projects.
-
-Reminder: Change UUID rules and attach UUID on backEnd!

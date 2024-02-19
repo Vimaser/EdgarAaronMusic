@@ -8,10 +8,10 @@
     margin: 0 auto;
     padding: 20px;
     text-align: center;
-    display: flex; /* Using flexbox */
-    flex-direction: column; /* Stack children vertically */
-    justify-content: center; /* Center content vertically */
-    min-height: calc(100vh - 60px); /* Adjust based on the footer's height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: calc(100vh - 60px);
 }
 
 h1 {
@@ -58,33 +58,33 @@ iframe {
   
 
 .image-section {
-    flex-grow: 1; /* Allows this section to grow and fill available space */
+    flex-grow: 1;
     display: flex;
     justify-content: center;
-    align-items: center; /* Center the image vertically and horizontally */
+    align-items: center;
     padding-top: 0%;
 }
 
 .box {
-    border: 1px solid black; /* adds a border */
-    padding: 20px; /* adds space inside the box, around the content */
-    margin: 20px; /* adds space outside the box */
-    width: 200px; /* sets the width of the box */
-    height: 200px; /* sets the height of the box */
-    background-color: lightgrey; /* sets the background color of the box */
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: lightgrey;
 }
 
 
 .image-section img {
-    max-height: 60vh; /* You can adjust this value */
-    width: auto; /* Maintain aspect ratio */
-    border-radius: 10px; /* Optional: for rounded corners */
+    max-height: 60vh;
+    width: auto;
+    border-radius: 10px;
 }
 
 .home-background-image {
     background-image: linear-gradient(to right, black , gray); 
     background-image: url('./edgarart-bg.png');
-    background-size: cover; /* Adjusted to cover */
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -111,10 +111,10 @@ iframe {
         width: 100vw; 
     }
     .image-section {
-        flex-grow: 1; /* Allows this section to grow and fill available space */
+        flex-grow: 1;
         display: flex;
         justify-content: center;
-        align-items: center; /* Center the image vertically and horizontally */
+        align-items: center;
         padding-top: 20px;
     }
 }
